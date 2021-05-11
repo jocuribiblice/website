@@ -1,0 +1,10 @@
+Changelog
+=========
+
+1.0.1 - (unreleased)
+--------------------
+
+1.0.0 - (2021-05-10)
+-------------------
+* Feature: first release. A simple page listing a game.
+  [GhitaB]
