@@ -9995,3 +9995,8 @@ h3 {
     border-color: #dee2e6;
   }
 }
+
+p.app-info {
+  border-top: 1px solid #CCCCCC;
+  border-bottom: 1px solid #CCCCCC;
+}
