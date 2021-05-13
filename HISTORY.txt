@@ -1,6 +1,11 @@
 Changelog
 =========
 
+1.0.3 - (2021-05-13)
+--------------------
+* Feature: new game - this-name.
+  [GhitaB]
+
 1.0.2 - (2021-05-11)
 --------------------
 * Feature: new game - guess-who-was.
