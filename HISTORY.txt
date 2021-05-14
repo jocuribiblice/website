@@ -1,6 +1,11 @@
 Changelog
 =========
 
+1.0.5 - (2021-05-14)
+--------------------
+* Feature: new app - genesis-1.
+  [GhitaB]
+
 1.0.4 - (2021-05-13)
 --------------------
 * Feature: new game - places.
