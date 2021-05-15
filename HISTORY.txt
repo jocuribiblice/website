@@ -1,10 +1,11 @@
 Changelog
 =========
 
-1.0.6 - (unreleased)
+1.1.0 - (2021-05-15)
 --------------------
 * Fix: add missing fontawesome.
 * Improve: update preview images.
+* Improve: content and layout.
   [GhitaB]
 
 1.0.5 - (2021-05-14)
